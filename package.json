@@ -1,0 +1,23 @@
+{
+  "name": "express-websocket-pixi-minimal-boilerplate",
+  "version": "1.0.0",
+  "description": "Express, websocket, pixi minimal boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "minimal",
+    "express",
+    "websocket",
+    "pixi",
+    "boilerplate"
+  ],
+  "author": "Ikaru90",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pixi.js": "^5.0.4",
+    "socket.io": "^2.2.0"
+  }
+}
